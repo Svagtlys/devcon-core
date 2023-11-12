@@ -1,0 +1,4 @@
+git checkout libreview_dev_branch
+git fetch upstream dev
+git rebase upstream/dev
+git push origin --force
