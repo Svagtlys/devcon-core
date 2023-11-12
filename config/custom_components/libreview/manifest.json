@@ -1,0 +1,9 @@
+{
+    "domain": "libreview",
+    "name": "LibreView",
+    "codeowners": ["@Svagtlys"],
+    "config_flow": true,
+    "documentation": "",
+    "iot_class": "cloud_polling",
+    "requirements": ["requests==2.30.0"]
+}
